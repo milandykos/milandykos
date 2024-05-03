@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +6287722667306
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I shifted my career from majoring in college from geological engineering to data analysis
+- ⚡ Fun fact: I shifted my career from majoring in college from geological engineering to data analyst. So i have technical skill Data Analyst and Industrial Knowledge Supply Chain Management
 
 <!---
 milandykos/milandykos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
